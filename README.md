@@ -1,2 +1,0 @@
-# rpclist
-ALL RPC LIST
